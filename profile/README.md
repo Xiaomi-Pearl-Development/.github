@@ -5,7 +5,7 @@ This organization contains repositories to build AOSP ROMs for Redmi Note 12T Pr
 
 ### Repositories
 For Android 15 Build:
-* [**Device Tree (rembrandt)**](https://github.com/Xiaomi-Pearl-Development/android_device_xiaomi_pearl.git) (`android_device_xiaomi_pearl`)
+* [**Device Tree (pearl)**](https://github.com/Xiaomi-Pearl-Development/android_device_xiaomi_pearl.git) (`android_device_xiaomi_pearl`)
 * [**Device Tree (mt6895)**](https://github.com/Xiaomi-Pearl-Development/android_device_xiaomi_mt6895-common.git) (`android_device_xiaomi_mt6895-common`)
 * [**Kernel Tree**](https://github.com/Xiaomi-Pearl-Development/android_kernel_xiaomi_mt6895.git) (`android_kernel_xiaomi_mt6895`)
 
