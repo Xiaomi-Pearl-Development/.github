@@ -9,7 +9,7 @@ For Android 15 Build:
 * [**Device Tree (mt6895)**](https://github.com/xiaomi-mediatek-devs/android_device_xiaomi_mt6895-common.git) (`android_device_xiaomi_mt6895-common`)
 * [**Kernel Tree**](https://github.com/Xiaomi-Pearl-Development/android_kernel_xiaomi_mt6895.git) (`android_kernel_xiaomi_mt6895`)
 
-Repositories such as `android_hardware_mediatek`, `android_hardware_xiaomi` and `android_device_mediatek_sepolicy_vndr` remain unmodified and can be used directly from the [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs) organization.
+Repositories such as `android_hardware_mediatek`, `android_hardware_xiaomi` and `android_device_mediatek_sepolicy_vndr` remain unmodified and can be used directly from the  [XagaForge](https://github.com/XagaForge) or [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs) organization.
 
 
 ### External patches
