@@ -6,7 +6,7 @@ This organization contains repositories to build AOSP ROMs for Redmi Note 12T Pr
 ### Repositories
 * [**Device Tree (pearl)**](https://github.com/Xiaomi-Pearl-Development/android_device_xiaomi_pearl.git) (`android_device_xiaomi_pearl`)
 * [**Kernel Tree**](https://github.com/Xiaomi-Pearl-Development/android_kernel_xiaomi_mt6895.git) (`android_kernel_xiaomi_mt6895`)
-* [**Vendor Tree (pearl)**](https://github.com/Xiaomi-Pearl-Development/android_vendor_xiaomi_pearl.git) (`android_vendor_xiaomi_pearl`)
+* [**Vendor Tree (pearl)**](https://github.com/Xiaomi-Pearl-Development/android_vendor_xiaomi_pearl.git) (`android_vendor_xiaomi_pearl`,only have the file we Kang)
 
 Repositories such as `android_hardware_mediatek`, `android_hardware_xiaomi` and `android_device_mediatek_sepolicy_vndr` remain unmodified and can be used directly from the  [XagaForge](https://github.com/XagaForge) or [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs) organization.
 
