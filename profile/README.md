@@ -7,7 +7,7 @@ This organization contains repositories to build AOSP ROMs for Redmi Note 12T Pr
 * [**Device Tree (pearl)**](https://github.com/Xiaomi-Pearl-Development/android_device_xiaomi_pearl.git) (`android_device_xiaomi_pearl`)
 * [**Kernel Tree**](https://github.com/Xiaomi-Pearl-Development/android_kernel_xiaomi_mt6895.git) (`android_kernel_xiaomi_mt6895`)
 * [**Vendor Tree (pearl)**](https://github.com/Xiaomi-Pearl-Development/android_vendor_xiaomi_pearl.git) (`android_vendor_xiaomi_pearl`,only have the file we Kang)
-* [**MIUI Camera (pearl)**](https://gitlab.com/enceka/proprietary_vendor_xiaomi_miuicamera-pearl) (`proprietary_vendor_xiaomi_miuicamera-pearl`,modified version,owing to @AetherPX from Coolapk.com)
+* [**MIUI Camera (pearl)**](https://gitlab.com/enceka/proprietary_vendor_xiaomi_miuicamera-pearl) (`proprietary_vendor_xiaomi_miuicamera-pearl`,modified version,owing to @[AetherPX](https://github.com/AetherPX))
 
 Repositories such as `android_hardware_mediatek`, `android_hardware_xiaomi` and `android_device_mediatek_sepolicy_vndr` remain unmodified and can be used directly from the  [XagaForge](https://github.com/XagaForge) or [xiaomi-mediatek-devs](https://github.com/xiaomi-mediatek-devs) organization.
 
